@@ -13,6 +13,7 @@ This section will describe how list, remove and register agents to and from the 
         command-line/index
         restful-api/index
         wazuh-app
+        agent-states
         agent-connection
         grouping-agents
         remote-upgrading/index
